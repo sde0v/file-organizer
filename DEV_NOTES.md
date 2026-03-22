@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Updated CI cache strategy
 - Cleaned up old debug logs
+
+## 2026-03-22
+- Added CONTRIBUTING.md stub
+- Tested build on clean environment
